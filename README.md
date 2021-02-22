@@ -17,5 +17,6 @@ This was the difficult part. I was unable to figure out how to distinguish betwe
 non-unique 'list' designations, among other issues. My workaround consisted of copying the html between <table></table>
 and putting it into an html to csv converter found here: https://www.convertcsv.com/html-table-to-csv.htm
 
-Findings:
+Project Findings:
+
 https://youtu.be/lAc_plhwj-s
