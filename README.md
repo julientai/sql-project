@@ -16,3 +16,6 @@ Getting the info into a dataframe:
 This was the difficult part. I was unable to figure out how to distinguish between each row of data as they all had
 non-unique 'list' designations, among other issues. My workaround consisted of copying the html between <table></table>
 and putting it into an html to csv converter found here: https://www.convertcsv.com/html-table-to-csv.htm
+
+Findings:
+https://youtu.be/lAc_plhwj-s
